@@ -21,7 +21,7 @@ const config: Config = {
         'main-gray': '#f2f2f2'
       },
       maxWidth: {
-        'pc-width': '1100px', // PC
+        'pc-width': '1100px', // PC mw
       },
 
     },
